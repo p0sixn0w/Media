@@ -1,0 +1,38 @@
+#EXTINF:-1 group-title="Новости;HD" tvg-id="1.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/1.png" tvg-name="Россия 1 HD",Россия 1 HD
+#EXTGRP:Новости
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-1 ,РТР Россия
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="226.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/226.png" tvg-name="Наше ТВ",Наше ТВ
+#EXTGRP:Новости
+http://37.235.200.88:81/udp/225.50.64.12:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="8.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/8.png" tvg-name="Пятница",Пятница
+#EXTGRP:Развлекательные
+http://37.235.221.181:81/udp/225.50.66.56:1234
+#EXTINF:-1 group-title="Развлекательные;HD" tvg-logo="http://iptvbarmen.tk/uploads/icon/246.png" tvg-name="Мир Premium",Мир Premium
+#EXTGRP:Развлекательные
+http://37.235.200.88:81/udp/225.50.71.5:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="27.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/27.png" tvg-name="Планета",Планета
+#EXTGRP:Познавательные
+#EXTINF:-1 ,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 ,VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 ,VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 ,VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 ,VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 ,TV1000
+http://185.74.7.220:8080/TV1000/mpegts
+#EXTINF:-1 ,TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 ,TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 ,TV1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 ,Победа
+http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
