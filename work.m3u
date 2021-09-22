@@ -1,76 +1,36 @@
-#EXTINF:-1,Первый канал HD
-http://37.235.176.23:81/udp/225.50.66.11:1234
-#EXTINF:-1,#EXTGRP:Новости
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
-#EXTINF:-1,РТР Россия
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,#EXTGRP:Новости
-http://37.235.200.88:81/udp/225.50.64.12:1234
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://37.235.221.181:81/udp/225.50.66.56:1234
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://37.235.200.88:81/udp/225.50.71.5:1234
-#EXTINF:-1,СССР ТВ
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1,VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1,VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1,VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1,VIP Serial
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1,TV1000 HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1,TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1,TV1000 Русское кино HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1,#EXTGRP:Новости
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,#EXTGRP:Новости
-https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus5/playlist_3.m3u8
-#EXTINF:-1,#EXTGRP:Новости
-http://a3569455792-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,#EXTGRP:LIVE
-http://87.247.44.19:80/btv/SWM/RTVi/RTVi.m3u8
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://37.235.218.122:81/udp/225.50.66.56:1234
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://pn.tvott.info:80/JvVLbiOrZIoEsVS/kmA6ZFvzPbEirkD/81528
-#EXTINF:-1,#EXTGRP:Развлекательные
-https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus1/playlist_3.m3u8
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://185.184.234.181:81/udp/225.1.2.5:1234
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://v1023.vcdn.in:80/1plus1/video.m3u8
-#EXTINF:-1,#EXTGRP:Развлекательные
-http://176.197.77.101:81/udp/239.255.42.200:1234
-#EXTINF:-1,#EXTGRP:Познавательные
-http://37.235.200.88:81/udp/225.50.71.15:1234
-#EXTINF:-1,#EXTGRP:Познавательные
-http://46.50.128.51:81/udp/239.54.5.92:1234
-#EXTINF:-1,#EXTGRP:Познавательные
-https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1,#EXTGRP:Сериалы
-http://37.235.186.113:81/udp/225.50.64.66:1234
-#EXTINF:-1,#EXTGRP:Сериалы
-http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=61c383509d7b77e06beca7c8ecfcdbea
-#EXTINF:-1,#EXTGRP:Сериалы
-http://s4.360iptv.net:8000/897984798/083863826/18775
-#EXTINF:-1,#EXTGRP:Детям
-http://37.235.186.113:81/udp/225.50.64.6:1234
-#EXTINF:-1,#EXTGRP:Детям
-http://37.235.186.113:81/udp/225.50.64.16:1234
-#EXTINF:-1,#EXTGRP:Музыкальные
-http://46.50.128.51:81/udp/239.54.5.118:1234
-#EXTINF:-1,#EXTGRP:Спорт
-https://95-213-172-212.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1,#EXTGRP:Спорт
-https://95-213-224-182.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1,#EXTGRP:Спорт
-http://s4.360iptv.net:8000/897984798/083863826/897
-#EXTINF:-1,#EXTGRP:Спорт
-http://s4.360iptv.net:8000/897984798/083863826/23821
+#EXTGRP:Новости	Online	a3569458063-s26881.cdn.ngenix.net	http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
+РТР Россия	Online	cdnmg.secure.live.rtr-vesti.ru	http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTGRP:Новости	Online	37.235.200.88:81	http://37.235.200.88:81/udp/225.50.64.12:1234
+#EXTGRP:Развлекательные	Online	37.235.221.181:81	http://37.235.221.181:81/udp/225.50.66.56:1234
+#EXTGRP:Развлекательные	Online	37.235.200.88:81	http://37.235.200.88:81/udp/225.50.71.5:1234
+СССР ТВ	Online	autopilot.catcast.tv	https://autopilot.catcast.tv/content/38821/index.m3u8
+VIP Premiere	Online	okkotv-live.cdnvideo.ru	https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+VIP Megahit	Online	okkotv-live.cdnvideo.ru	https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+VIP Comedy	Online	okkotv-live.cdnvideo.ru	https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+VIP Serial	Online	okkotv-live.cdnvideo.ru	https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+TV1000 HD	Online	okkotv-live.cdnvideo.ru	https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+TV1000 Action HD	Online	okkotv-live.cdnvideo.ru	https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+TV1000 Русское кино HD	Online	okkotv-live.cdnvideo.ru	https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTGRP:Новости	Online	a3569458063-s26881.cdn.ngenix.net	http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTGRP:Новости	Online	a3569455792-s26881.cdn.ngenix.net	https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus5/playlist_3.m3u8
+#EXTGRP:Новости	Online	a3569455792-s26881.cdn.ngenix.net	http://a3569455792-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTGRP:LIVE	Online	87.247.44.19:80	http://87.247.44.19:80/btv/SWM/RTVi/RTVi.m3u8
+#EXTGRP:Развлекательные	Online	37.235.218.122:81	http://37.235.218.122:81/udp/225.50.66.56:1234
+#EXTGRP:Развлекательные	Online	pn.tvott.info:80	http://pn.tvott.info:80/JvVLbiOrZIoEsVS/kmA6ZFvzPbEirkD/81528
+#EXTGRP:Развлекательные	Online	a3569455792-s26881.cdn.ngenix.net	https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus1/playlist_3.m3u8
+#EXTGRP:Развлекательные	Online	uiptv.do.am	http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTGRP:Развлекательные	Online	185.184.234.181:81	http://185.184.234.181:81/udp/225.1.2.5:1234
+#EXTGRP:Развлекательные	Online	v1023.vcdn.in:80	http://v1023.vcdn.in:80/1plus1/video.m3u8
+#EXTGRP:Развлекательные	Online	176.197.77.101:81	http://176.197.77.101:81/udp/239.255.42.200:1234
+#EXTGRP:Познавательные	Online	37.235.200.88:81	http://37.235.200.88:81/udp/225.50.71.15:1234
+#EXTGRP:Познавательные	Online	46.50.128.51:81	http://46.50.128.51:81/udp/239.54.5.92:1234
+#EXTGRP:Познавательные	Online	strm.yandex.ru	https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+#EXTGRP:Сериалы	Online	37.235.186.113:81	http://37.235.186.113:81/udp/225.50.64.66:1234
+#EXTGRP:Сериалы	Online	lb.kstream.org	http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=61c383509d7b77e06beca7c8ecfcdbea
+#EXTGRP:Сериалы	Online	s4.360iptv.net:8000	http://s4.360iptv.net:8000/897984798/083863826/18775
+#EXTGRP:Детям	Online	37.235.186.113:81	http://37.235.186.113:81/udp/225.50.64.6:1234
+#EXTGRP:Детям	Online	37.235.186.113:81	http://37.235.186.113:81/udp/225.50.64.16:1234
+#EXTGRP:Спорт	Online	95-213-172-212.livesports24.online	https://95-213-172-212.livesports24.online/setantaukraine.m3u8
+#EXTGRP:Спорт	Online	95-213-224-182.livesports24.online	https://95-213-224-182.livesports24.online/setantaplusru.m3u8
+#EXTGRP:Спорт	Online	s4.360iptv.net:8000	http://s4.360iptv.net:8000/897984798/083863826/897
+#EXTGRP:Спорт	Online	s4.360iptv.net:8000	http://s4.360iptv.net:8000/897984798/083863826/23821
