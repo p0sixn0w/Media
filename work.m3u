@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="Новости;HD" tvg-id="2.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
+http://37.235.176.23:81/udp/225.50.66.11:1234
 #EXTINF:-1 group-title="Новости;HD" tvg-id="1.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/1.png" tvg-name="Россия 1 HD",Россия 1 HD
 #EXTGRP:Новости
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
