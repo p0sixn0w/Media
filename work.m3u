@@ -10,8 +10,6 @@ http://37.235.200.88:81/udp/225.50.64.12:1234
 http://37.235.221.181:81/udp/225.50.66.56:1234
 #EXTINF:-1,#EXTGRP:Развлекательные
 http://37.235.200.88:81/udp/225.50.71.5:1234
-#EXTINF:-1,Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,СССР ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1,VIP Premiere
